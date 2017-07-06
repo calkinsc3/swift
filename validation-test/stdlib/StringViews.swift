@@ -757,3 +757,4 @@ tests.test("String.UTF32View/BidirectionalCollection")
 }
 
 runAllTests()
+
